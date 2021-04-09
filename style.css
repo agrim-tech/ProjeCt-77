@@ -1,0 +1,12 @@
+body {
+text-align: center;
+background: linear-gradient(#049434, #04947e);
+}
+#title{
+    font-family: 'Kufam', cursive;
+    font-size: 35px;
+}
+#content{
+    font-family: 'Kufam', cursive;
+    font-size:20px;
+}
